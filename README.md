@@ -1,3 +1,3 @@
 # todolistwithparse
 
-android sample app that uses Parse as a data backend
+sample Android app that uses Parse as a data backend
